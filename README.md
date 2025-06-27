@@ -14,17 +14,18 @@ I am a final-year Computer Science student at Ton Duc Thang University, speciali
 -   🌱 **I’m currently learning:** Advanced techniques for model optimization and deployment (e.g., ONNX, TensorRT).
 -   👯 **I’m looking to collaborate on:** Open-source AI projects, especially those related to low-resource languages or generative AI.
 -   💬 **Ask me about:** PyTorch, Transformers, Attention Mechanisms, or building data pipelines with Generative AI.
--   📫 **How to reach me:** [tinphamwork@gmail.com](mailto:tinphamwork@gmail.com) / [linkedin.com/phtin/](https://www.linkedin.com/in/phtin/)
 
 ---
 
-### 🔗 **Connect with Me**
+### 🔗 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/phtin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
+  <a href="mailto:tinphamwork@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
