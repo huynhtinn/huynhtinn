@@ -18,16 +18,6 @@ I am a final-year Computer Science student at Ton Duc Thang University, speciali
 
 ---
 
-### 🔗 **Connect with Me**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/phtin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-</p>
-
----
 
 ### 🛠️ **My Tech Stack**
 
@@ -44,7 +34,7 @@ Here are some of the technologies I've been working with recently:
 
 - 📫 [tinphamwork@gmail.com](mailto:tinphamwork@gmail.com)
 - 💼 [LinkedIn - phtin](https://www.linkedin.com/in/phtin)
-
+- 🌐[My website portfolio](https://huynh-tin-pham.vercel.app/)
 ---
 
 <p align="center">
