@@ -1,4 +1,4 @@
-# Hi there, I'm Tin Pham Huynh! 👋
+# Hi there, I'm Tin Pham Huynh!
 
 <p align="center">
   <em>A computer science student with a love for building intelligent systems that solve real-world problems.</em>
@@ -6,20 +6,20 @@
 
 ---
 
-### 🤖 **About Me**
+### **About Me**
 
 I am a final-year Computer Science student at Ton Duc Thang University, specializing in Artificial Intelligence. My core interest lies in the fields of **Natural Language Processing (NLP)**, **Deep Learning** and **Machine Learning**. I thrive on tackling complex challenges, from designing sophisticated data pipelines to building and training neural network architectures from scratch.
 
--   🔭 **I’m currently working on:** Applying Transformer-based models to solve unique language challenges and exploring multi-modal learning systems.
--   🌱 **I’m currently learning:** Advanced techniques for model optimization and deployment (e.g., ONNX, TensorRT).
--   👯 **I’m looking to collaborate on:** Open-source AI projects, especially those related to low-resource languages or generative AI.
--   💬 **Ask me about:** PyTorch, Transformers, Attention Mechanisms, or building data pipelines with Generative AI.
--   📫 **How to reach me:** [tinphamwork@gmail.com](mailto:tinphamwork@gmail.com) / [My website portfolio](https://huynh-tin-pham.vercel.app/)
+-   **I’m currently working on:** Applying Transformer-based models to solve unique language challenges and exploring multi-modal learning systems.
+-   **I’m currently learning:** Advanced techniques for model optimization and deployment (e.g., ONNX, TensorRT).
+-   **I’m looking to collaborate on:** Open-source AI projects, especially those related to low-resource languages or generative AI.
+-   **Ask me about:** PyTorch, Transformers, Attention Mechanisms, or building data pipelines with Generative AI.
+-   **How to reach me:** [tinphamwork@gmail.com](mailto:tinphamwork@gmail.com) / [My website portfolio](https://huynh-tin-pham.vercel.app/)
 
 ---
 
 
-### 🛠️ **My Tech Stack**
+### **My Tech Stack**
 
 Here are some of the technologies I've been working with recently:
 
@@ -30,13 +30,13 @@ Here are some of the technologies I've been working with recently:
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
-- 📫 [tinphamwork@gmail.com](mailto:tinphamwork@gmail.com)
-- 💼 [LinkedIn - phtin](https://www.linkedin.com/in/phtin)
-- 🌐 [My website portfolio](https://huynh-tin-pham.vercel.app/)
+- [tinphamwork@gmail.com](mailto:tinphamwork@gmail.com)
+- [LinkedIn - phtin](https://www.linkedin.com/in/phtin)
+- [My website portfolio](https://huynh-tin-pham.vercel.app/)
 ---
 
 <p align="center">
-  Thanks for visiting my profile! 🌟
+  Thanks for visiting my profile!
 </p>
