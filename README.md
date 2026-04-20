@@ -11,10 +11,10 @@
 I am a final-year Computer Science student at Ton Duc Thang University, specializing in Artificial Intelligence. My core interest lies in the fields of **Natural Language Processing (NLP)**, **Deep Learning** and **Machine Learning**. I thrive on tackling complex challenges, from designing sophisticated data pipelines to building and training neural network architectures from scratch.
 
 -   **I’m currently working on:** Applying Transformer-based models to solve unique language challenges and exploring multi-modal learning systems.
--   **I’m currently learning:** Advanced techniques for model optimization and deployment (e.g., ONNX, TensorRT).
+-   **I’m currently learning:** Advanced techniques for model optimization and deployment.
 -   **I’m looking to collaborate on:** Open-source AI projects, especially those related to low-resource languages or generative AI.
 -   **Ask me about:** PyTorch, Transformers, Attention Mechanisms, or building data pipelines with Generative AI.
--   **How to reach me:** [tinphamwork@gmail.com](mailto:tinphamwork@gmail.com) / [My website portfolio](https://huynh-tin-pham.vercel.app/)
+-   **How to reach me:** [tinphamwork@gmail.com](mailto:tinphamwork@gmail.com) / [linkedin.com/phtin](https://www.linkedin.com/in/phtin/) / [My website portfolio](https://huynh-tin-pham.vercel.app/)
 
 ---
 
